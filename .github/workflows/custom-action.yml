@@ -7,6 +7,6 @@ jobs:
     steps:
       - name: Hello World action steps try
         id: hello
-        uses: Roizz-soul/barsoom@0.0.1
+        uses: Roizz-soul/barsoom@0.0.2
         with:
           name: 'Barsoom'
