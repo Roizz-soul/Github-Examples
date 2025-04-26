@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     name: A job for hello
     steps:
-      - name: Hello World action steps
+      - name: Hello World action steps try
         id: hello
         uses: Roizz-soul/barsoom@0.0.1
         with:
